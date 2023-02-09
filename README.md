@@ -1,2 +1,2 @@
 # Getting-nft-date-from-open-sea
-Getting nft date from open sea without a API key
+Getting nft data from open sea without a API key
